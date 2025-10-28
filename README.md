@@ -35,7 +35,7 @@ getgenv().UISettings = {
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/pixy87/DTC-UI-V2/refs/heads/main/main.lua"))()
 ```
-
+![rebirthfarmsettings](https://raw.githubusercontent.com/pixy87/DTC-UI-V2/refs/heads/main/example.gif)
 ---
 
 # *Discord*
