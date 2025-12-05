@@ -37,7 +37,7 @@ getgenv().UISettings = {
 loadstring(game:HttpGet("https://raw.githubusercontent.com/pixy87/DTC-UI-V2/refs/heads/main/main.lua"))()
 ```
 Example video of these settings in use (~8k rebirths/hour)
-![rebirthfarmsettings](https://raw.githubusercontent.com/pixy87/DTC-UI-V2/refs/heads/main/example2.gif)
+![rebirthfarmsettings](https://raw.githubusercontent.com/pixy87/DTC-UI-V2/refs/heads/main/ezgif-7ddef325000d65c7.gif)
 ---
 
 # *Discord*
