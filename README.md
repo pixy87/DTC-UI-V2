@@ -24,19 +24,20 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/pixy87/DTC-UI-V2/refs
 
 ---
 
-# *Recommended Settings (Rebirth Farm - Halloween - TURN ON AUTO REBIRTHING)*
+# *Recommended Settings (Rebirth Farm - Christmas - TURN ON AUTO REBIRTHING)*
 ```lua
 getgenv().UISettings = {
     AutoChina = false,
     PTB = true,
     BTP = false,
     CTP = true,
-    AutoCandy = true
+    AutoCandy = true,
+    AutoPresent = true
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/pixy87/DTC-UI-V2/refs/heads/main/main.lua"))()
 ```
-Example video of these settings in use (~21k rebirths/hour)
-![rebirthfarmsettings](https://raw.githubusercontent.com/pixy87/DTC-UI-V2/refs/heads/main/example.gif)
+Example video of these settings in use (~8k rebirths/hour)
+![rebirthfarmsettings](https://raw.githubusercontent.com/pixy87/DTC-UI-V2/refs/heads/main/example2.gif)
 ---
 
 # *Discord*
