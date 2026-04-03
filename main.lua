@@ -29,7 +29,7 @@ TextLabel.TextWrapped = true
 
 -- Scripts:
 
-local function WOUP_fake_script() -- DigToChinaUIV2.LocalScript 
+local function RGWMQ_fake_script() -- DigToChinaUIV2.LocalScript 
 	local script = Instance.new('LocalScript', DigToChinaUIV2)
 
 	local UISettings = getgenv().UISettings or {
@@ -683,6 +683,7 @@ local function WOUP_fake_script() -- DigToChinaUIV2.LocalScript
 	btn.Button.MouseLeave:Connect(function() btn.AutoRebirthINFO.Visible = false end)
 	btncolors()
 	
+	btn.Visible = false
 	candy.Visible = false
 	candy2.Visible = false
 	china.Visible = true
@@ -693,4 +694,4 @@ local function WOUP_fake_script() -- DigToChinaUIV2.LocalScript
 	task.wait(3)
 	game.ReplicatedStorage.Events.NotificationText.NotificationTextBindable:Fire("       Join our discord: discord.gg/EACbG6SHXX       ", "grey")
 end
-coroutine.wrap(WOUP_fake_script)()
+coroutine.wrap(RGWMQ_fake_script)()
